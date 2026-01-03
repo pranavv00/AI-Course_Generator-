@@ -14,23 +14,9 @@
 
 ---
 
-## 📹 Demo Video
 
-<div align="center">
 
-### 🎥 Watch the Demo
 
-[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> **Note:** Add your demo video link above. You can upload the video to YouTube and replace `YOUR_VIDEO_ID` with your actual video ID.
-
-**Or embed the video directly:**
-
-```markdown
-[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](YOUR_VIDEO_URL)
-```
-
-</div>
 
 ---
 
